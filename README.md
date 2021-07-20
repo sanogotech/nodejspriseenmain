@@ -13,5 +13,6 @@ $ node   app.js
 ```
 
 ## Tutorials
-  -- https://codepen.io/SitePoint/pen/GmPjjL
-  -- https://www.sitepoint.com/simple-javascript-quiz/#demo
+  - https://codepen.io/SitePoint/pen/GmPjjL
+  
+  - https://www.sitepoint.com/simple-javascript-quiz/#demo

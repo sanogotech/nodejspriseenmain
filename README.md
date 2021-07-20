@@ -3,6 +3,7 @@
 ## Node  Single Thread (-moins CPU)
 - NodeJs is only Chrome V8  Javascript  Engine outside a navigator  vs  Language vs Framework2
 - npm  is NodeJs packaged ecosystem for open sources librairies
+- node is a C++ programm wich embeded  V8 Chrome javascript engine
 ##  Commande
 ```
 $ node --version 

@@ -8,5 +8,6 @@
 ```
 $ node --version 
 v14.15.0
+$ node   app.js
 
 ```
